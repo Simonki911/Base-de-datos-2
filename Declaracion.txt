@@ -1,0 +1,7 @@
+Declaracion de IA:
+
+El codigo entregado esta hecho en su mayoria o casi totalidad por mi, lo hecho por ia es la parte final de la linea 196 a la 305,
+en la que hago las instancias de los objetos y creo la lista( le pedi explicitamente a la ia que me diera una lista ya armada con errores)
+tambien use ia para manejar mejores conceptos como el try/except y el raise ya que no me habian quedado muy claros y creo que lo pude aplicar bien con la ayuda.
+
+Hay una parte hecha por ia que la hice para avanzar mas rapido el codigo la cual copie y pegue y es la parte del metodo girar en la clase hija "CuentaCorriente"
